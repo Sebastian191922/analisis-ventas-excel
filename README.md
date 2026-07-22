@@ -25,7 +25,7 @@ across 3 product categories and 4 regions.
 
 ## 📁 Files
 - `Proyecto 1 2.xlsx` — Main Excel file with dashboard
-- `/screenshots` — Dashboard screenshots
+- `DASHBOARD.png` — Dashboard screenshot
 
 ## 🔍 Dataset
 [Superstore Dataset - Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
